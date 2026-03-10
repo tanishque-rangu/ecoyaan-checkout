@@ -74,7 +74,7 @@ export default function PaymentPage() {
       <h1 className="text-3xl font-bold mb-8">Confirm & Pay</h1>
 
       <div className="grid md:grid-cols-2 gap-8">
-        <div className="text-4xl font-bold mb-6 text-slate-950">
+       <div className="text-green-600 text-4xl font-bold mb-6">
         <div>
           <h2 className="text-xl font-bold mb-4">Shipping To:</h2>
           <div className="bg-white p-6 rounded border">

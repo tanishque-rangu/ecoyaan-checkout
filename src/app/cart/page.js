@@ -39,7 +39,7 @@ export default function CartPage() {
           </div>
         </div>
       ))}
-  <div class="text-4xl font-bold mb-6 text-slate-950">
+ <div className="text-green-600 text-4xl font-bold mb-6">
       <div className="mt-8 bg-white p-6 rounded shadow">
         <div className="flex justify-between mb-2">
           <span>Subtotal:</span>
